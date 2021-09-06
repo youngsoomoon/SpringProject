@@ -58,11 +58,4 @@ class MemberServiceIntegrationTest {
         //then
     }
 
-    @Test
-    void findMembers() {
-    }
-
-    @Test
-    void findOne() {
-    }
 }
